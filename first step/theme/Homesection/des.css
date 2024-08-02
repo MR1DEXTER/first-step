@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+.navbar{
+    background-color:rgb(36,39,44);
+    height: 60px;
+
+}
+.navbar-brand{
+    color: rgb(251, 254, 255);
+    font-weight: 700;/*katzid fi hajm dyal khat*/
+}
+.navbar-brand:hover{
+    color: rgb(54, 183, 34);
+    cursor: pointer;/*sahm dyal souri*/
+}
+/*margin kadir masafa*/
+body{
+    font-family: "Inter", sans-serif;
+    background-color:rgb(11,14,15) ;
+}
+.text-1{
+    color: rgb(246, 249, 251);
+    font-weight: 650;
+    margin-left: 35px;
+    font-size: 17px;
+    
+}
+.logo1{
+    width: 77.13;
+    margin: 10px;
+}
+.botton2{
+    background-color: transparent;
+    border: none;
+
+}
+.form-control {
+    background-color: transparent;
+    border: none;
+}
+
+.btn-outline-success {
+    color: white;
+    border: none;
+    font-weight: 600;
+    opacity: 0.6;
+}
+.search-1{
+    background-color: rgba(11, 14, 15, 0.288);
+    border-radius: 10px;
+    margin-right: 190px;
+}
+.sing3{
+    background-color: rgb(15, 228, 15);
+    color: black;
+    border: none;
+    border-radius: 2px;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    line-height: 1.25;
+    font-weight:650;
+    padding-left: 15px;
+    margin-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 15px;
+    
+}
+.log-4{
+    background-color:transparent;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    line-height: 1.25;
+    font-weight:650;
+    padding-left: 15px;
+    margin-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 15px;  
+}
+.log-4:hover{
+    background-color: rgba(169, 169, 169, 0.178);
+    border-radius: 5px;
+}
