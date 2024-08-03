@@ -22,7 +22,11 @@ body{
     font-weight: 650;
     margin-left: 35px;
     font-size: 17px;
+    cursor: pointer;
     
+}
+.text-1:hover{
+    color: greenyellow;
 }
 .logo1{
     width: 77.13;
